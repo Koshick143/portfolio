@@ -42,6 +42,11 @@
     .reach-out{
         flex-direction: row;
     }
+
+    .con-btn{
+        padding: 2px;
+        margin: 2px;
+    }
 }
 
 

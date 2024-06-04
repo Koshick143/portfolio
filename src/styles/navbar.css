@@ -1,0 +1,39 @@
+.nav-head{
+    max-height: 10vh;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222831;
+    color: #eeeeee;
+  }
+  
+ h2{
+   margin-left: 50px;
+  }
+
+  .nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 50px;
+  }
+
+  .nav a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  @media (min-width: 361px) and (max-width: 768px){
+   .nav-head{
+    min-width: 100%;
+    min-height: 10vh;
+   }
+
+
+
+  .nav{
+    width: 100%;
+  }
+
+
+  }

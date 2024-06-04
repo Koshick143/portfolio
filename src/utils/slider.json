@@ -1,0 +1,38 @@
+[  
+
+     {
+        "name": "The Bartalaap (Group Chat App)",
+        "description":" The Group Chat application is a real-time messaging platform built with React and Firebase, featuring Google authentication for user sign-in and sign-out. Upon authentication, users can participate in a dynamic group chat where messages are stored and retrieved in real-time via Firebase Firestore, ensuring immediate updates for all participants. The application employs functional React components and hooks to manage state and effects, while Material-UI components provide a consistent and user-friendly interface. The main interface includes a sticky header with brand information and a sign-in/out button, a Drawer displaying the authenticated user's details, a chat area with styled messages, and an input form with a send button for new messages. CSS media queries ensure responsiveness, adapting the layout for both desktop and mobile devices. Firebase configurations handle authentication and database interactions, and the application is deployed on Netlify for seamless continuous deployment. This setup offers a modern, interactive, and secure chat experience.",
+        "git" : "https://github.com/Koshick143/bartalaap-gc",
+        "image": "/web.png",
+        "url" : "https://bartalaap-group.netlify.app/"
+        
+    },
+    {
+        "name": "Real Estate website",
+        "description": " Explore my work, including a dynamic Real Estate Web App built on React. This user-friendly application offers a seamless experience for discovering your dream home. With intuitive navigation and stunning visuals, you can effortlessly browse through a diverse range of properties, from cozy apartments to luxurious estates. Explore the world of real estate with ease and find the perfect home that suits your lifestyle. Dive into my portfolio to discover more about this project and other exciting ventures.",
+        "git" : "https://github.com/Koshick143/gharr-real-estate-website-",
+        "image": "/web1-a.png",
+        "url" : "https://gharr.netlify.app/"
+        
+    },
+
+    {
+        "name": "Weather website",
+        "description": "WeatherApp is a dynamic and user-friendly weather application built using React.js. With an intuitive interface, users can easily check the current weather conditions of any location worldwide. The app provides real-time updates on temperature, humidity, wind speed, and more, while also offering a fun surprise for users who type 'mithoi' in the search bar. Designed to be responsive and visually engaging, WeatherApp offers both functionality and charm in exploring the weather.",
+        "git" : "https://github.com/Koshick143/Weather-App",
+        "image": "/web2.png",
+        "url" : "https://pig-weather.netlify.app/"
+        
+    },
+    {  
+        "name": "News website",
+        "git" : "https://github.com/Koshick143/News-App",
+        "description":" This React-powered website. Dive into the News web app, where you'll find dynamic content fetched from top news sources, featuring business, technology, and science headlines from around India. With interactive Swiper components and informative Lists, this portfolio demonstrates my skills in building engaging and data-driven web applications. Take a closer look at my work and discover the possibilities.",
+        "image": "/web3.png",
+        "url" : "Coudn't host due to api restrictions"
+        
+    }
+
+
+]

@@ -1,5 +1,14 @@
 [  
 
+{
+    "name": " Gyani Baba (Gemini clone)",
+    "description":" Gyani Baba is an interactive chat application that leverages Google's Generative AI, Gemini 1.5 Flash, to assist users with tasks such as exploring new ideas, drafting documents, and debugging code. The app features a user-friendly interface with a navigation bar, a main container housing greeting and interactive cards, and a search box for user prompts. An expandable sidebar offers options for new chats, recent prompts, help, activity, and settings. Built with React, it utilizes the Context API for state management and CSS modules for styling, ensuring a responsive design for both desktop and mobile devices. Gyani Baba provides real-time, AI-powered responses, making it a valuable tool for quick and reliable support.",
+    "git" : "https://github.com/Koshick143/Gemini-clone",
+    "image": "/web4.png",
+    "url" : "https://gyani-baba.netlify.app/"
+    
+},
+
      {
         "name": "The Bartalaap (Group Chat App)",
         "description":" The Group Chat application is a real-time messaging platform built with React and Firebase, featuring Google authentication for user sign-in and sign-out. Upon authentication, users can participate in a dynamic group chat where messages are stored and retrieved in real-time via Firebase Firestore, ensuring immediate updates for all participants. The application employs functional React components and hooks to manage state and effects, while Material-UI components provide a consistent and user-friendly interface. The main interface includes a sticky header with brand information and a sign-in/out button, a Drawer displaying the authenticated user's details, a chat area with styled messages, and an input form with a send button for new messages. CSS media queries ensure responsiveness, adapting the layout for both desktop and mobile devices. Firebase configurations handle authentication and database interactions, and the application is deployed on Netlify for seamless continuous deployment. This setup offers a modern, interactive, and secure chat experience.",
